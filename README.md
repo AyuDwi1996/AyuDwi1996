@@ -4,8 +4,8 @@
 
 
 - 👀 I’m interested in everything that keeps me engaged
-- 🌱 I’m currently learning React
-- 💞️ I’m working as PowerBi developer but I am looking for a change as Software Developer
+- 🌱 I’m currently pursuing Master's in Computer Science from CSU East Bay
+- 💞️ My interest lies in Machine Learning & Web Systems
 - 😄 Pronouns: She/Her
 
 ### Talk with me, I am kinda awesome:
