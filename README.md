@@ -9,7 +9,7 @@
 - 😄 Pronouns: She/Her
 
 ### Talk with me, I am kinda awesome:
-- 📫 How to reach me ...[linkedin.com/in/ayushi-dwivedi-15b469196]
+- 📫 Follow me on linkedIn by clicking the link on my profile
 
 <br />
 
