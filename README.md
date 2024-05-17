@@ -4,7 +4,7 @@
 
 
 - 👀 I’m interested in everything that keeps me engaged
-- 🌱 I’m currently pursuing Master's in Computer Science from CSU East Bay
+- 🌱 Graduated with Master's in Computer Science from CSU East Bay May 2024
 - 💞️ My interest lies in Machine Learning & Web Systems
 - 😄 Pronouns: She/Her
 
